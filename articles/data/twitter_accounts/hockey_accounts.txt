@@ -1,1709 +1,1709 @@
-name - username
+name,username
 
-Justin Abdelkader - @justinabss
+Justin Abdelkader,@justinabss
 
-Will Acton - @BillTheBod
+Will Acton,@BillTheBod
 
-Luke Adam - @LukeJAdam
+Luke Adam,@LukeJAdam
 
-Sebastian Aho - @SebastianAho
+Sebastian Aho,@SebastianAho
 
-Jason Akeson - @JasonAkeson
+Jason Akeson,@JasonAkeson
 
-John Albert - @adelbertjohn
+John Albert,@adelbertjohn
 
-Daniel Alfredsson - @DAlfredsson11
+Daniel Alfredsson,@DAlfredsson11
 
-Jake Allen - @34jallen
+Jake Allen,@34jallen
 
-Karl Alzner - @KarlAlzner
+Karl Alzner,@KarlAlzner
 
-Frederik Andersen - @f_andersen30
+Frederik Andersen,@f_andersen30
 
-Craig Anderson - @CraigAnderson41
+Craig Anderson,@CraigAnderson41
 
-Andy Andreoff - @andyandreoff
+Andy Andreoff,@andyandreoff
 
-Sven Andrighetto - @Andrighetto25
+Sven Andrighetto,@Andrighetto25
 
-Brandon Archibald - @Archibald9210
+Brandon Archibald,@Archibald9210
 
-Darren Archibald - @arch2five
+Darren Archibald,@arch2five
 
-Mark Arcobello - @sporkabella
+Mark Arcobello,@sporkabella
 
-Colby Armstrong - @armdog
+Colby Armstrong,@armdog
 
-Linus Arnesson - @ArnessonLinus
+Linus Arnesson,@ArnessonLinus
 
-Arron Asham - @TheRealAsham45
+Arron Asham,@TheRealAsham45
 
-Carter Ashton - @c_ash15
+Carter Ashton,@c_ash15
 
-Rasmus Asplund - @raasmusaasplunf
+Rasmus Asplund,@raasmusaasplunf
 
-Andreas Athanasiou - @AndreasA86
+Andreas Athanasiou,@AndreasA86
 
-Cam Atkinson - @CamAtkinson13
+Cam Atkinson,@CamAtkinson13
 
-Keith Aulie - @kaulie59
+Keith Aulie,@kaulie59
 
-Yohann Auvitu - @YohannAuvitu
+Yohann Auvitu,@YohannAuvitu
 
-Sean Avery - @imseanavery
+Sean Avery,@imseanavery
 
-Richard Bachman - @Bacher31
+Richard Bachman,@Bacher31
 
-David Backes - @dbackes42
+David Backes,@dbackes42
 
-Mikael Backlund - @mbacklund11
+Mikael Backlund,@mbacklund11
 
-Nicklas Bäckström - @backstrom19
+Nicklas Bäckström,@backstrom19
 
-Jamie Baker - @Bakes_Jamie13
+Jamie Baker,@Bakes_Jamie13
 
-Krys Barch - @krysbarch
+Krys Barch,@krysbarch
 
-Aleksander Barkov - @Barkovsasha95
+Aleksander Barkov,@Barkovsasha95
 
-Matthew Barnaby - @MattBarnaby3636
+Matthew Barnaby,@MattBarnaby3636
 
-Tyson Barrie - @tysonbarrie
+Tyson Barrie,@tysonbarrie
 
-Victor Bartley - @VicBartley8
+Victor Bartley,@VicBartley8
 
-Mathew Barzal - @Barzal_97
+Mathew Barzal,@Barzal_97
 
-Bob Bassen - @BobBassen28
+Bob Bassen,@BobBassen28
 
-François Beauchemin - @beauch32
+François Beauchemin,@beauch32
 
-Nathan Beaulieu - @natebeaulieu
+Nathan Beaulieu,@natebeaulieu
 
-Anthony Beauvillier - @titobeauvi21
+Anthony Beauvillier,@titobeauvi21
 
-Taylor Beck - @taybeckone9
+Taylor Beck,@taybeckone9
 
-Matt Beleskey - @Matt_Beleskey
+Matt Beleskey,@Matt_Beleskey
 
-Brendan Bell - @BBell09
+Brendan Bell,@BBell09
 
-Pierre-Édouard Bellemare - @bellsy78
+Pierre-Édouard Bellemare,@bellsy78
 
-Jamie Benn - @jamiebenn14
+Jamie Benn,@jamiebenn14
 
-Beau Bennett - @BeauBennett19
+Beau Bennett,@BeauBennett19
 
-Sam Bennett - @SBennett93
+Sam Bennett,@SBennett93
 
-Matt Benning - @mbennzzzz
+Matt Benning,@mbennzzzz
 
-André Benoit - @ABenoit61
+André Benoit,@ABenoit61
 
-Max Bentley - @
+Max Bentley,@
 
-Bryan Berard - @BryanBerard
+Bryan Berard,@BryanBerard
 
-Sean Bergenheim - @seanbergie
+Sean Bergenheim,@seanbergie
 
-Marc-André Bergeron - @bergeron47
+Marc-André Bergeron,@bergeron47
 
-Reto Berra - @yogi20bear
+Reto Berra,@yogi20bear
 
-Jean-François Bérubé - @JRouby
+Jean-François Bérubé,@JRouby
 
-Antoine Bibeau - @BibeauAntoine01
+Antoine Bibeau,@BibeauAntoine01
 
-Stu Bickel - @StuBickel
+Stu Bickel,@StuBickel
 
-Bryan Bickell - @bbicks29
+Bryan Bickell,@bbicks29
 
-Alex Biega - @ABiega4
+Alex Biega,@ABiega4
 
-Kevin Bieksa - @kbieksa3
+Kevin Bieksa,@kbieksa3
 
-Jordan Binnington - @binnnasty
+Jordan Binnington,@binnnasty
 
-Martin Biron - @martybiron43
+Martin Biron,@martybiron43
 
-Ben Bishop - @Benbishop30
+Ben Bishop,@Benbishop30
 
-Paul Bissonnette - @BizNasty2point0
+Paul Bissonnette,@BizNasty2point0
 
-Anthony Bitetto - @ABitetto7
+Anthony Bitetto,@ABitetto7
 
-Oliver Bjorkstrand - @OBjorkstrand
+Oliver Bjorkstrand,@OBjorkstrand
 
-Nick Bjugstad - @NBjugstad72
+Nick Bjugstad,@NBjugstad72
 
-Jesse Blacker - @JBlacker91
+Jesse Blacker,@JBlacker91
 
-Jonathon Blum - @JonBlum7
+Jonathon Blum,@JonBlum7
 
-Troy Bodie - @TroyBodie
+Troy Bodie,@TroyBodie
 
-Andrew Bodnarchuk - @hali_bods
+Andrew Bodnarchuk,@hali_bods
 
-Zach Bogosian - @BogosianZach
+Zach Bogosian,@BogosianZach
 
-Alexandre Bolduc - @Aduke49
+Alexandre Bolduc,@Aduke49
 
-Dave Bolland - @DaveBolland
+Dave Bolland,@DaveBolland
 
-Brandon Bollig - @Bollig87
+Brandon Bollig,@Bollig87
 
-Nick Bonino - @NickBonino
+Nick Bonino,@NickBonino
 
-David Booth - @D_Booth7
+David Booth,@D_Booth7
 
-Patrick Bordeleau - @PBordy
+Patrick Bordeleau,@PBordy
 
-Robert Bortuzzo - @rbontuzzo21
+Robert Bortuzzo,@rbontuzzo21
 
-Mike Bossy - @Bossy5050
+Mike Bossy,@Bossy5050
 
-Brian Boucher - @BrianBoucher33
+Brian Boucher,@BrianBoucher33
 
-Chris Bourque - @cbourque17
+Chris Bourque,@cbourque17
 
-Ray Bourque - @RayBourque77
+Ray Bourque,@RayBourque77
 
-Ryan Bourque - @RyanBourque91
+Ryan Bourque,@RyanBourque91
 
-Darryl Boyce - @dboyce47
+Darryl Boyce,@dboyce47
 
-Johnny Boychuk - @joboych
+Johnny Boychuk,@joboych
 
-Zach Boychuk - @ZachBoychuk
+Zach Boychuk,@ZachBoychuk
 
-Brad Boyes - @bboyes28
+Brad Boyes,@bboyes28
 
-Brian Boyle - @BriBrows22
+Brian Boyle,@BriBrows22
 
-Tyler Bozak - @Bozie42
+Tyler Bozak,@Bozie42
 
-Tim Bozon - @timbozon94
+Tim Bozon,@timbozon94
 
-Tim Brent - @Brenter37
+Tim Brent,@Brenter37
 
-Daniel Brière - @DannyBriere48
+Daniel Brière,@DannyBriere48
 
-Martin Brodeur - @MartinBrodeur
+Martin Brodeur,@MartinBrodeur
 
-Jonas Brodin - @brodin25
+Jonas Brodin,@brodin25
 
-Troy Brouwer - @TroyBrouwer36
+Troy Brouwer,@TroyBrouwer36
 
-Chris Brown - @txbrownie
+Chris Brown,@txbrownie
 
-Connor Brown - @Breeze2Greeze
+Connor Brown,@Breeze2Greeze
 
-Dustin Brown - @DustinBrown23
+Dustin Brown,@DustinBrown23
 
-J.T. Brown - @JTBrown23
+J.T. Brown,@JTBrown23
 
-Patrick Brown - @PattyBrown36
+Patrick Brown,@PattyBrown36
 
-Damien Brunner - @damien_brunner
+Damien Brunner,@damien_brunner
 
-Ilya Bryzgalov - @bryzgoalie30
+Ilya Bryzgalov,@bryzgoalie30
 
-Brett Bulmer - @BrettBulmer92
+Brett Bulmer,@BrettBulmer92
 
-André Burakovsky - @andreburakovsky
+André Burakovsky,@andreburakovsky
 
-Adam Burish - @ABurish37
+Adam Burish,@ABurish37
 
-Sean Burke - @SBurkie1
+Sean Burke,@SBurkie1
 
-Brent Burns - @Burnzie88
+Brent Burns,@Burnzie88
 
-Alexandre Burrows - @aburr14
+Alexandre Burrows,@aburr14
 
-Chris Butler - @TheButler44
+Chris Butler,@TheButler44
 
-Paul Byron - @jpbyron89
+Paul Byron,@jpbyron89
 
-Mikkel Bødker - @Mikkelboedker
+Mikkel Bødker,@Mikkelboedker
 
-Jack Caffery - @
+Jack Caffery,@
 
-Ryan Callahan - @TheRealCally24
+Ryan Callahan,@TheRealCally24
 
-Brian Campbell - @bcampbell_51
+Brian Campbell,@bcampbell_51
 
-Patrick Cannone - @Pistolpat20
+Patrick Cannone,@Pistolpat20
 
-Luca Caputi - @Lputi17
+Luca Caputi,@Lputi17
 
-Daniel Carcillo - @CarBombBoom13
+Daniel Carcillo,@CarBombBoom13
 
-Paul Carey - @PaulCarey28
+Paul Carey,@PaulCarey28
 
-Matt Carkner - @CarknerMatt
+Matt Carkner,@CarknerMatt
 
-Matt Carle - @mattcarle25
+Matt Carle,@mattcarle25
 
-Brandon Carlo - @1996_Carlo
+Brandon Carlo,@1996_Carlo
 
-John Carlson - @JohnCarlson74
+John Carlson,@JohnCarlson74
 
-Jordan Caron - @Jord38caron
+Jordan Caron,@Jord38caron
 
-Daniel Carr - @DanCarr9
+Daniel Carr,@DanCarr9
 
-Connor Carrick - @connorcarrick
+Connor Carrick,@connorcarrick
 
-Anson Carter - @AnsonCarterLA
+Anson Carter,@AnsonCarterLA
 
-Jeff Carter - @JeffCarter_77
+Jeff Carter,@JeffCarter_77
 
-Ryan Carter - @CartersStache
+Ryan Carter,@CartersStache
 
-Cody Ceci - @Cecer_83
+Cody Ceci,@Cecer_83
 
-Michael Chaput - @MichaelChaput62
+Michael Chaput,@MichaelChaput62
 
-Kelly Chase - @Chasenpucks39
+Kelly Chase,@Chasenpucks39
 
-Mathieu Chouinard - @Chouine
+Mathieu Chouinard,@Chouine
 
-Jakob Chychrun - @j_chychrun7
+Jakob Chychrun,@j_chychrun7
 
-Casey Cizikas - @zeeker11
+Casey Cizikas,@zeeker11
 
-Wendel Clark - @wendelclark17
+Wendel Clark,@wendelclark17
 
-Bill Clement - @BillClement10
+Bill Clement,@BillClement10
 
-Adam Clendening - @Clenny5
+Adam Clendening,@Clenny5
 
-Kyle Clifford - @13KCliffy
+Kyle Clifford,@13KCliffy
 
-Grant Clitsome - @GClitsome
+Grant Clitsome,@GClitsome
 
-Rich Clune - @richclune
+Rich Clune,@richclune
 
-Colby Cohen - @ColbyCohen36
+Colby Cohen,@ColbyCohen36
 
-Carlo Colaiacovo - @CarloColaiacovo
+Carlo Colaiacovo,@CarloColaiacovo
 
-Joe Colborne - @Joe_Colborne
+Joe Colborne,@Joe_Colborne
 
-Ian Cole - @ICole28
+Ian Cole,@ICole28
 
-Sebastian Collberg - @collberg49
+Sebastian Collberg,@collberg49
 
-Mike Commodore - @commie22
+Mike Commodore,@commie22
 
-Mike Comrie - @Mike_Comrie
+Mike Comrie,@Mike_Comrie
 
-Cory Conacher - @conhockey19
+Cory Conacher,@conhockey19
 
-Mike Condon - @Condibear1
+Mike Condon,@Condibear1
 
-Erik Condra - @ECondra
+Erik Condra,@ECondra
 
-Brett Connolly - @bconnolly8
+Brett Connolly,@bconnolly8
 
-Kyle Connor - @KyleConnor18
+Kyle Connor,@KyleConnor18
 
-Andrew Copp - @Copp94
+Andrew Copp,@Copp94
 
-Frank Corrado - @frankcorrado22
+Frank Corrado,@frankcorrado22
 
-Jean-Philippe Côté - @jpside
+Jean-Philippe Côté,@jpside
 
-Riley Cote - @rileecoyote
+Riley Cote,@rileecoyote
 
-Russ Courtnall - @RussCourtnall
+Russ Courtnall,@RussCourtnall
 
-Nick Cousins - @Cous27
+Nick Cousins,@Cous27
 
-Logan Couture - @Logancouture
+Logan Couture,@Logancouture
 
-Charlie Coyle - @CharlieCoyle_3
+Charlie Coyle,@CharlieCoyle_3
 
-Adam Cracknell - @ACracknell27
+Adam Cracknell,@ACracknell27
 
-Lawson Crouse - @LawCrouse
+Lawson Crouse,@LawCrouse
 
-Austin Czarnik - @ACzarnik7
+Austin Czarnik,@ACzarnik7
 
-Kevin Czuczman - @GoToCzucz
+Kevin Czuczman,@GoToCzucz
 
-Jerry D'Amigo - @JerryD91
+Jerry D'Amigo,@JerryD91
 
-Zac Dalpe - @ZacDalpe22
+Zac Dalpe,@ZacDalpe22
 
-Phillip Danault - @phildanault
+Phillip Danault,@phildanault
 
-Ken Daneyko - @KenDaneykoMSG
+Ken Daneyko,@KenDaneykoMSG
 
-Marko Daňo - @Marko_Dano
+Marko Daňo,@Marko_Dano
 
-Mathieu Darche - @matdarche52
+Mathieu Darche,@matdarche52
 
-Scott Darling - @SDarling_33
+Scott Darling,@SDarling_33
 
-Pavel Datsyuk - @Datsyuk13
+Pavel Datsyuk,@Datsyuk13
 
-Laurent Dauphin - @flippers27
+Laurent Dauphin,@flippers27
 
-Brandon Davidson - @bdavy3
+Brandon Davidson,@bdavy3
 
-Calvin de Haan - @cal_dehaan
+Calvin de Haan,@cal_dehaan
 
-Jacob de La Rose - @JacobdelaRose
+Jacob de La Rose,@JacobdelaRose
 
-Mark Dekanich - @dexshow
+Mark Dekanich,@dexshow
 
-Danny DeKeyser - @DeKeyser5
+Danny DeKeyser,@DeKeyser5
 
-Michael Del Zotto - @MichaelDelZotto
+Michael Del Zotto,@MichaelDelZotto
 
-Aaron Dell - @ADell32
+Aaron Dell,@ADell32
 
-Dylan DeMelo - @ddems2
+Dylan DeMelo,@ddems2
 
-Jason Demers - @jasondemers5
+Jason Demers,@jasondemers5
 
-Andrew Desjardins - @AndrewDesjardin
+Andrew Desjardins,@AndrewDesjardin
 
-Simon Despres - @Despres747
+Simon Despres,@Despres747
 
-Jamie Devane - @jdevane
+Jamie Devane,@jdevane
 
-Raphael Diaz - @diaz_raphael_61
+Raphael Diaz,@diaz_raphael_61
 
-Brenden Dillon - @BDillon04
+Brenden Dillon,@BDillon04
 
-Kevin Dineen - @kdino9
+Kevin Dineen,@kdino9
 
-Chris Dingman - @dingdish
+Chris Dingman,@dingdish
 
-Max Domi - @max_domi
+Max Domi,@max_domi
 
-Tie Domi - @thereal_tiedomi
+Tie Domi,@thereal_tiedomi
 
-Louis Domingue - @domingue35
+Louis Domingue,@domingue35
 
-Matt Donovan - @SquatchDonovan
+Matt Donovan,@SquatchDonovan
 
-Derek Dorsett - @Twigy15
+Derek Dorsett,@Twigy15
 
-Drew Doughty - @dewyy8
+Drew Doughty,@dewyy8
 
-Jim Dowd - @dowdjim
+Jim Dowd,@dowdjim
 
-Nic Dowd - @JimmyDowder26
+Nic Dowd,@JimmyDowder26
 
-Justin Dowling - @therealjdowls
+Justin Dowling,@therealjdowls
 
-Steve Downie - @stevedownie23
+Steve Downie,@stevedownie23
 
-Leon Draisaitl - @Drat_29
+Leon Draisaitl,@Drat_29
 
-Nick Drazenovic - @Drazzy1010
+Nick Drazenovic,@Drazzy1010
 
-Jonathan Drouin - @jodrouin27
+Jonathan Drouin,@jodrouin27
 
-Brandon Dubinsky - @BDubi17
+Brandon Dubinsky,@BDubi17
 
-Matt Duchene - @Matt9Duchene
+Matt Duchene,@Matt9Duchene
 
-Anthony Duclair - @aduclair10
+Anthony Duclair,@aduclair10
 
-Ron Duguay - @RonDuguay10
+Ron Duguay,@RonDuguay10
 
-Mathew Dumba - @matt_dumba
+Mathew Dumba,@matt_dumba
 
-Brian Dumoulin - @Du24theboyz
+Brian Dumoulin,@Du24theboyz
 
-Pascal Dupuis - @Duper0009
+Pascal Dupuis,@Duper0009
 
-Christian Dvorak - @10_CD
+Christian Dvorak,@10_CD
 
-Gordie Dwyer - @GDwyer32
+Gordie Dwyer,@GDwyer32
 
-Patrick Dwyer - @pattydwyer39
+Patrick Dwyer,@pattydwyer39
 
-Ryan Dzingel - @Ryandzingel
+Ryan Dzingel,@Ryandzingel
 
-Cody Eakin - @CodyEakin50
+Cody Eakin,@CodyEakin50
 
-Andrew Ebbett - @aebbett
+Andrew Ebbett,@aebbett
 
-Jordan Eberle - @ebs_14
+Jordan Eberle,@ebs_14
 
-Joel Edmundson - @JEdmundson3
+Joel Edmundson,@JEdmundson3
 
-Nikolaj Ehlers - @NikolajEhlers24
+Nikolaj Ehlers,@NikolajEhlers24
 
-Christian Ehrhoff - @TheRealHoff10
+Christian Ehrhoff,@TheRealHoff10
 
-Jack Eichel - @Jack_Eichel11
+Jack Eichel,@Jack_Eichel11
 
-Aaron Ekblad - @Ekblad5FLA
+Aaron Ekblad,@Ekblad5FLA
 
-Mattias Ekholm - @MatEkh14
+Mattias Ekholm,@MatEkh14
 
-Oliver Ekman-Larsson - @OEL23
+Oliver Ekman-Larsson,@OEL23
 
-Patrik Eliáš - @pelias
+Patrik Eliáš,@pelias
 
-Lars Eller - @lellerofficial
+Lars Eller,@lellerofficial
 
-Keaton Ellerby - @ellerby88
+Keaton Ellerby,@ellerby88
 
-Brian Elliott - @KidElls1
+Brian Elliott,@KidElls1
 
-Stefan Elliott - @stefelliott6
+Stefan Elliott,@stefelliott6
 
-Morgan Ellis - @MorganEllis4
+Morgan Ellis,@MorganEllis4
 
-Nelson Emerson - @nemerson19
+Nelson Emerson,@nemerson19
 
-Cory Emmerton - @cemmer48
+Cory Emmerton,@cemmer48
 
-Jhonas Enroth - @JEnroth125
+Jhonas Enroth,@JEnroth125
 
-Joel Eriksson Ek - @ErikssonEk
+Joel Eriksson Ek,@ErikssonEk
 
-John Erskine - @johnerskine04
+John Erskine,@johnerskine04
 
-Emerson Etem - @tweetem_up
+Emerson Etem,@tweetem_up
 
-Robby Fabbri - @RFabbri15
+Robby Fabbri,@RFabbri15
 
-Radek Faksa - @RadekFaksa
+Radek Faksa,@RadekFaksa
 
-Justin Falk - @JuicerFalk
+Justin Falk,@JuicerFalk
 
-Bobby Farnham - @bobbyfarnham24
+Bobby Farnham,@bobbyfarnham24
 
-Hudson Fasching - @Hfasching22
+Hudson Fasching,@Hfasching22
 
-Justin Faulk - @JustinFaulk27
+Justin Faulk,@JustinFaulk27
 
-Mark Fayne - @mfayne87
+Mark Fayne,@mfayne87
 
-Todd Fedoruk - @fridge29
+Todd Fedoruk,@fridge29
 
-Taylor Fedun - @tfedun88
+Taylor Fedun,@tfedun88
 
-Eric Fehr - @EricFehr
+Eric Fehr,@EricFehr
 
-Andrew Ference - @Ferknuckle
+Andrew Ference,@Ferknuckle
 
-Peter Ferraro - @PFerraro42
+Peter Ferraro,@PFerraro42
 
-Ray Ferraro - @rayferrarotsn
+Ray Ferraro,@rayferrarotsn
 
-Mike Fisher - @mikefisher1212
+Mike Fisher,@mikefisher1212
 
-Mark Fistric - @Fistric45
+Mark Fistric,@Fistric45
 
-Theo Fleury - @TheoFleury14
+Theo Fleury,@TheoFleury14
 
-Nick Foligno - @NickFoligno
+Nick Foligno,@NickFoligno
 
-Christian Folin - @ChristianFolin
+Christian Folin,@ChristianFolin
 
-Justin Fontaine - @J_Fontaine37
+Justin Fontaine,@J_Fontaine37
 
-Gustav Forsling - @GForsling
+Gustav Forsling,@GForsling
 
-Alex Foster - @Alex23Foster
+Alex Foster,@Alex23Foster
 
-Colin Fraser - @colinfraser
+Colin Fraser,@colinfraser
 
-Matt Fraser - @mfraser25
+Matt Fraser,@mfraser25
 
-Matt Frattin - @Matt_Frattin
+Matt Frattin,@Matt_Frattin
 
-Trevor Frischmon - @TFrisch39
+Trevor Frischmon,@TFrisch39
 
-Martin Frk - @Frky91
+Martin Frk,@Frky91
 
-Zachary Fucale - @Fucale31
+Zachary Fucale,@Fucale31
 
-Grant Fuhr - @grantfuhr
+Grant Fuhr,@grantfuhr
 
-Marián Gáborík - @MGaborik12
+Marián Gáborík,@MGaborik12
 
-Sam Gagner - @89SGagner
+Sam Gagner,@89SGagner
 
-Alex Galchenyuk - @AGally94
+Alex Galchenyuk,@AGally94
 
-T.J. Galiardi - @TJGaliardi
+T.J. Galiardi,@TJGaliardi
 
-Stanislav Galiev - @Galixon_97
+Stanislav Galiev,@Galixon_97
 
-Brendan Gallagher - @BGALLY17
+Brendan Gallagher,@BGALLY17
 
-Jake Gardiner - @Jgardiner272
+Jake Gardiner,@Jgardiner272
 
-Jason Garrison - @J_G_5
+Jason Garrison,@J_G_5
 
-Johnny Gaudreau - @johngaudreau03
+Johnny Gaudreau,@johngaudreau03
 
-Brendan Gaunce - @BrendanGaunce16
+Brendan Gaunce,@BrendanGaunce16
 
-Denis Gauthier - @DGauthierRDS
+Denis Gauthier,@DGauthierRDS
 
-Luke Gazdic - @lukegazdic
+Luke Gazdic,@lukegazdic
 
-Blake Geoffrion - @BlakeGeoffrion
+Blake Geoffrion,@BlakeGeoffrion
 
-Nathan Gerbe - @NathanGerbe14
+Nathan Gerbe,@NathanGerbe14
 
-Bruno Gervais - @bruno_gervais27
+Bruno Gervais,@bruno_gervais27
 
-John Gibson - @JohnGibson35
+John Gibson,@JohnGibson35
 
-Rod Gilbert - @rodgilbert7
+Rod Gilbert,@rodgilbert7
 
-Hal Gill - @Skillsy75
+Hal Gill,@Skillsy75
 
-Clark Gillies - @ClarkGillies
+Clark Gillies,@ClarkGillies
 
-Colton Gillies - @ColtonGillies
+Colton Gillies,@ColtonGillies
 
-Jon Gillies - @JGillies32
+Jon Gillies,@JGillies32
 
-Doug Gilmour - @DougGilmour93
+Doug Gilmour,@DougGilmour93
 
-Brian Gionta - @Giostyle21
+Brian Gionta,@Giostyle21
 
-Stephen Gionta - @steviegio11
+Stephen Gionta,@steviegio11
 
-Mark Giordano - @MarkGio05
+Mark Giordano,@MarkGio05
 
-Zemgus Girgensons - @zemgus94
+Zemgus Girgensons,@zemgus94
 
-Claude Giroux - @28CGiroux
+Claude Giroux,@28CGiroux
 
-Tanner Glass - @TGlass15
+Tanner Glass,@TGlass15
 
-Alex Goligoski - @gollygoose33
+Alex Goligoski,@gollygoose33
 
-Barclay Goodrow - @bgoodrow23
+Barclay Goodrow,@bgoodrow23
 
-Andrew Gordon - @AndrewGordon10
+Andrew Gordon,@AndrewGordon10
 
-Josh Gorges - @jgorges26
+Josh Gorges,@jgorges26
 
-Butch Goring - @91Butch
+Butch Goring,@91Butch
 
-Brandon Gormley - @bgormley33
+Brandon Gormley,@bgormley33
 
-Shayne Gostisbehere - @s_ghost14
+Shayne Gostisbehere,@s_ghost14
 
-Michael Grabner - @grabs40
+Michael Grabner,@grabs40
 
-Alex Grant - @agrant20
+Alex Grant,@agrant20
 
-Derek Grant - @DGrant57
+Derek Grant,@DGrant57
 
-Mike Green - @GreenLife52
+Mike Green,@GreenLife52
 
-A.J. Greer - @ajgreer_10
+A.J. Greer,@ajgreer_10
 
-Jeremy Gregoire - @JayGreg32
+Jeremy Gregoire,@JayGreg32
 
-Wayne Gretzky - @waynegretzky
+Wayne Gretzky,@waynegretzky
 
-Rocco Grimaldi - @RGrimaldi23
+Rocco Grimaldi,@RGrimaldi23
 
-Stu Grimson - @asgrimson
+Stu Grimson,@asgrimson
 
-Troy Grosenick - @TGrose1
+Troy Grosenick,@TGrose1
 
-Eric Gryba - @grybes02
+Eric Gryba,@grybes02
 
-Radko Gudas - @radkogudas
+Radko Gudas,@radkogudas
 
-Erik Gudbranson - @Guddy44
+Erik Gudbranson,@Guddy44
 
-Carl Gunnarsson - @carl_gun
+Carl Gunnarsson,@carl_gun
 
-Carl Hagelin - @CarlHagelin
+Carl Hagelin,@CarlHagelin
 
-Robert Hägg - @Robbanhagg
+Robert Hägg,@Robbanhagg
 
-Taylor Hall - @hallsy09
+Taylor Hall,@hallsy09
 
-Jeff Halpern - @jeff_halpern
+Jeff Halpern,@jeff_halpern
 
-Dougie Hamilton - @dhamilton27
+Dougie Hamilton,@dhamilton27
 
-Ben Hanowski - @BenHano10
+Ben Hanowski,@BenHano10
 
-Christian Hanson - @Hanson20er
+Christian Hanson,@Hanson20er
 
-Shane Harper - @Cali_Sharp
+Shane Harper,@Cali_Sharp
 
-Scott Harrington - @S_Harrington06
+Scott Harrington,@S_Harrington06
 
-Ryan Hartman - @RHartzy18
+Ryan Hartman,@RHartzy18
 
-Scott Hartnell - @Hartsy43
+Scott Hartnell,@Hartsy43
 
-Erik Haula - @EHaula
+Erik Haula,@EHaula
 
-Martin Havlát - @martinhavlat
+Martin Havlát,@martinhavlat
 
-Eriah Hayes - @EJHayes25
+Eriah Hayes,@EJHayes25
 
-Jimmy Hayes - @Jimmy10Hayes
+Jimmy Hayes,@Jimmy10Hayes
 
-Kevin Hayes - @KevinPHayes12
+Kevin Hayes,@KevinPHayes12
 
-Bret Hedican - @BretHedican
+Bret Hedican,@BretHedican
 
-Victor Hedman - @heds77
+Victor Hedman,@heds77
 
-Matt Hendricks - @MattHendy26
+Matt Hendricks,@MattHendy26
 
-Adam Henrique - @AdamHenrique
+Adam Henrique,@AdamHenrique
 
-T.J. Hensick - @TJHensick
+T.J. Hensick,@TJHensick
 
-Tomáš Hertl - @TomasHertl48
+Tomáš Hertl,@TomasHertl48
 
-Thomas Hickey - @thomas_hickey14
+Thomas Hickey,@thomas_hickey14
 
-Corey Hirsch - @CoreyHirsch
+Corey Hirsch,@CoreyHirsch
 
-Joshua Ho-Sang - @66jhosang
+Joshua Ho-Sang,@66jhosang
 
-Mike Hoffman - @MHoffy68
+Mike Hoffman,@MHoffy68
 
-Peter Holland - @PeterHolland13
+Peter Holland,@PeterHolland13
 
-Ryan Hollweg - @TheStache15
+Ryan Hollweg,@TheStache15
 
-Braden Holtby - @Holts170
+Braden Holtby,@Holts170
 
-Korbinian Holzer - @Korbi_Holzer
+Korbinian Holzer,@Korbi_Holzer
 
-Brian Holzinger - @BrianHolzinger
+Brian Holzinger,@BrianHolzinger
 
-Jonas Holøs - @jHolos
+Jonas Holøs,@jHolos
 
-Bo Horvat - @BoHorvat
+Bo Horvat,@BoHorvat
 
-Quinton Howden - @qhowden21
+Quinton Howden,@qhowden21
 
-Kelly Hrudey - @KellyHrudey
+Kelly Hrudey,@KellyHrudey
 
-Jonathan Huberdeau - @JonnyHuby11
+Jonathan Huberdeau,@JonnyHuby11
 
-Charles Hudon - @KidHud_10
+Charles Hudon,@KidHud_10
 
-Brett Hull - @HOFBlues16
+Brett Hull,@HOFBlues16
 
-Michael Hutchinson - @mhutch34
+Michael Hutchinson,@mhutch34
 
-Ben Hutton - @bhutt10
+Ben Hutton,@bhutt10
 
-Carter Hutton - @CarterHutton
+Carter Hutton,@CarterHutton
 
-Zach Hyman - @ZachHyman
+Zach Hyman,@ZachHyman
 
-Jaromír Jágr - @68Jagr
+Jaromír Jágr,@68Jagr
 
-Cam Janssen - @CamJanssen25
+Cam Janssen,@CamJanssen25
 
-Dmitrij Jaškin - @DmitrijJaskin
+Dmitrij Jaškin,@DmitrijJaskin
 
-Jesse Joensuu - @jouneri6
+Jesse Joensuu,@jouneri6
 
-Ryan Johansen - @RyanJohansen19
+Ryan Johansen,@RyanJohansen19
 
-Marcus Johansson - @mjohansson90
+Marcus Johansson,@mjohansson90
 
-Stephen Johns - @stjohns28
+Stephen Johns,@stjohns28
 
-Erik Johnson - @6ErikJohnson
+Erik Johnson,@6ErikJohnson
 
-Tyler Johnson - @tjohnny09
+Tyler Johnson,@tjohnny09
 
-David Jones - @djones5454
+David Jones,@djones5454
 
-Seth Jones - @seth_jones3
+Seth Jones,@seth_jones3
 
-Michal Jordán - @TheBigCzech23
+Michal Jordán,@TheBigCzech23
 
-Curtis Joseph - @cujo
+Curtis Joseph,@cujo
 
-Roman Josi - @rjosi90
+Roman Josi,@rjosi90
 
-Derek Joslin - @Djos27
+Derek Joslin,@Djos27
 
-Nazem Kadri - @43_Kadri
+Nazem Kadri,@43_Kadri
 
-Patrick Kaleta - @patrick_kaleta
+Patrick Kaleta,@patrick_kaleta
 
-Steven Kampfer - @SteveKampfer47
+Steven Kampfer,@SteveKampfer47
 
-Evander Kane - @evanderkane_9
+Evander Kane,@evanderkane_9
 
-Patrick Kane - @88PKane
+Patrick Kane,@88PKane
 
-Kasperi Kapanen - @kasperikapanen1
+Kasperi Kapanen,@kasperikapanen1
 
-Sami Kapanen - @KapanenSami
+Sami Kapanen,@KapanenSami
 
-Erik Karlsson - @ErikKarlsson65
+Erik Karlsson,@ErikKarlsson65
 
-William Karlsson - @WKarlsson71
+William Karlsson,@WKarlsson71
 
-Matt Kassian - @kassassination
+Matt Kassian,@kassassination
 
-Zack Kassian - @zkassian9
+Zack Kassian,@zkassian9
 
-Bracken Kearns - @bracken66
+Bracken Kearns,@bracken66
 
-Duncan Keith - @DuncanKeith
+Duncan Keith,@DuncanKeith
 
-Clayton Keller - @ClaytonKeller37
+Clayton Keller,@ClaytonKeller37
 
-Joonas Kemppainen - @Kepu_23
+Joonas Kemppainen,@Kepu_23
 
-Michael Keränen - @michaelkeranen
+Michael Keränen,@michaelkeranen
 
-Nicolas Kerdiles - @NicKerdiles
+Nicolas Kerdiles,@NicKerdiles
 
-Ryan Kesler - @Ryan_Kesler
+Ryan Kesler,@Ryan_Kesler
 
-Phil Kessel - @PKessel81
+Phil Kessel,@PKessel81
 
-Jujhar Khaira - @jujhar94
+Jujhar Khaira,@jujhar94
 
-Alex Killorn - @Akillorn19
+Alex Killorn,@Akillorn19
 
-Jakub Kindl - @JKindl4
+Jakub Kindl,@JKindl4
 
-D.J. King - @DJKING_17
+D.J. King,@DJKING_17
 
-Keith Kinkaid - @Blockaid1
+Keith Kinkaid,@Blockaid1
 
-Oscar Klefbom - @Klefbom93
+Oscar Klefbom,@Klefbom93
 
-Carl Klingberg - @CarlKlingberg
+Carl Klingberg,@CarlKlingberg
 
-John Klingberg - @johnklingberg
+John Klingberg,@johnklingberg
 
-Rob Klinkhammer - @Bobbyklink
+Rob Klinkhammer,@Bobbyklink
 
-Mike Knuble - @MikeKnuble22
+Mike Knuble,@MikeKnuble22
 
-Olaf Kölzig - @OlieKolzig37
+Olaf Kölzig,@OlieKolzig37
 
-Leo Komarov - @LKomarov
+Leo Komarov,@LKomarov
 
-Mike Komisarek - @mkomisarek
+Mike Komisarek,@mkomisarek
 
-Zenon Konopka - @ZenonKonopka
+Zenon Konopka,@ZenonKonopka
 
-Tomáš Kopecký - @kopy82
+Tomáš Kopecký,@kopy82
 
-Anže Kopitar - @AnzeKopitar
+Anže Kopitar,@AnzeKopitar
 
-Joonas Korpisalo - @jkorpisalo
+Joonas Korpisalo,@jkorpisalo
 
-Mike Kostka - @Kostka85
+Mike Kostka,@Kostka85
 
-Brandon Kozun - @kozy15
+Brandon Kozun,@kozy15
 
-Igor Kravchuk - @KravchukIgor
+Igor Kravchuk,@KravchukIgor
 
-Chris Kreider - @ChrisKreider
+Chris Kreider,@ChrisKreider
 
-Torey Krug - @ToreyKrug
+Torey Krug,@ToreyKrug
 
-Darcy Kuemper - @dkuemps35
+Darcy Kuemper,@dkuemps35
 
-Brett Kulak - @brettkulak61
+Brett Kulak,@brettkulak61
 
-Dmitry Kulikov - @kulioo7
+Dmitry Kulikov,@kulioo7
 
-Evgeny Kuznetsov - @Kuzya92
+Evgeny Kuznetsov,@Kuzya92
 
-Nick Kypreos - @RealKyper
+Nick Kypreos,@RealKyper
 
-Kevin Labanc - @Str8ToTheBanc
+Kevin Labanc,@Str8ToTheBanc
 
-Pierre-Cédric Labrie - @PcLabrie
+Pierre-Cédric Labrie,@PcLabrie
 
-Eddie Läck - @eddielack
+Eddie Läck,@eddielack
 
-Andrew Ladd - @aladd16
+Andrew Ladd,@aladd16
 
-Brooks Laich - @brookslaich
+Brooks Laich,@brookslaich
 
-Patrik Laine - @PatrikLaine29
+Patrik Laine,@PatrikLaine29
 
-Anton Lander - @Landie51
+Anton Lander,@Landie51
 
-Gabriel Landeskog - @GabeLandeskog92
+Gabriel Landeskog,@GabeLandeskog92
 
-Darren Langdon - @langerbrettdrew
+Darren Langdon,@langerbrettdrew
 
-Ian Laperrière - @dooda1414
+Ian Laperrière,@dooda1414
 
-Georges Laraque - @GeorgesLaraque
+Georges Laraque,@GeorgesLaraque
 
-Igor Larionov - @Igor_Larionov
+Igor Larionov,@Igor_Larionov
 
-Dylan Larkin - @Dylanlarkin39
+Dylan Larkin,@Dylanlarkin39
 
-Philip Larsen - @PLarsen36
+Philip Larsen,@PLarsen36
 
-Adam Larsson - @AdamLarsson3
+Adam Larsson,@AdamLarsson3
 
-Jacob Larsson - @JacobLarsson3
+Jacob Larsson,@JacobLarsson3
 
-Matt Lashoff - @MattLashoff
+Matt Lashoff,@MattLashoff
 
-Guillaume Latendresse - @thetender1987
+Guillaume Latendresse,@thetender1987
 
-Michael Latta - @Latta17
+Michael Latta,@Latta17
 
-Craig Laughlin - @Laughlin18
+Craig Laughlin,@Laughlin18
 
-Scott Laughton - @Laughts21
+Scott Laughton,@Laughts21
 
-Brian Lawton - @brianlawton9
+Brian Lawton,@brianlawton9
 
-Curtis Lazar - @CurtisLazar95
+Curtis Lazar,@CurtisLazar95
 
-Vincent Lecavalier - @VLecavalier4
+Vincent Lecavalier,@VLecavalier4
 
-John LeClair - @John_LeClair10
+John LeClair,@John_LeClair10
 
-Nick Leddy - @ledpipe08
+Nick Leddy,@ledpipe08
 
-Anders Lee - @leeberr09
+Anders Lee,@leeberr09
 
-Robin Lehner - @RobinLehner
+Robin Lehner,@RobinLehner
 
-Jori Lehterä - @Lempaalanpoika
+Jori Lehterä,@Lempaalanpoika
 
-Sami Lepistö - @SamiLepisto
+Sami Lepistö,@SamiLepisto
 
-Kris Letang - @Letang_58
+Kris Letang,@Letang_58
 
-Pierre-Luc Letourneau-Leblond - @PLLeblond
+Pierre-Luc Letourneau-Leblond,@PLLeblond
 
-Trevor Lewis - @trevorlewis22
+Trevor Lewis,@trevorlewis22
 
-John-Michael Liles - @hoosierjm26
+John-Michael Liles,@hoosierjm26
 
-Petteri Lindbohm - @PetteriLindbohm
+Petteri Lindbohm,@PetteriLindbohm
 
-Elias Lindholm - @lindholmelias
+Elias Lindholm,@lindholmelias
 
-Hampus Lindholm - @HampeLindholm
+Hampus Lindholm,@HampeLindholm
 
-Eric Lindros - @88EricLindros
+Eric Lindros,@88EricLindros
 
-Joakim Lindström - @joalinds
+Joakim Lindström,@joalinds
 
-Ben Lovejoy - @RevLovejoy6
+Ben Lovejoy,@RevLovejoy6
 
-Adam Lowry - @ALowsyPlayer17
+Adam Lowry,@ALowsyPlayer17
 
-Milan Lucic - @27MilanLucic
+Milan Lucic,@27MilanLucic
 
-Brad Lukowich - @Luko37
+Brad Lukowich,@Luko37
 
-Jamie Lundmark - @JamieLundmark
+Jamie Lundmark,@JamieLundmark
 
-Henrik Lundqvist - @HLundqvist30
+Henrik Lundqvist,@HLundqvist30
 
-Roberto Luongo - @strombone1
+Roberto Luongo,@strombone1
 
-Joffrey Lupul - @JLupul
+Joffrey Lupul,@JLupul
 
-Steve MacIntyre - @Smacker33
+Steve MacIntyre,@Smacker33
 
-Nathan MacKinnon - @Mackinnon9
+Nathan MacKinnon,@Mackinnon9
 
-Brett Maclean - @mackattack_39
+Brett Maclean,@mackattack_39
 
-Evgeni Malkin - @malkin71_
+Evgeni Malkin,@malkin71_
 
-Brad Malone - @Bmalone22
+Brad Malone,@Bmalone22
 
-Ryan Malone - @Bugsy12Malone
+Ryan Malone,@Bugsy12Malone
 
-Dave Maloney - @DaveMaloneyMSG
+Dave Maloney,@DaveMaloneyMSG
 
-Brandon Manning - @mandog1990
+Brandon Manning,@mandog1990
 
-Josh Manson - @Joshmanson42
+Josh Manson,@Joshmanson42
 
-Anthony Mantha - @antomantha8
+Anthony Mantha,@antomantha8
 
-Brad Marchand - @Bmarch63
+Brad Marchand,@Bmarch63
 
-Jonathan Marchessault - @JMarchessault18
+Jonathan Marchessault,@JMarchessault18
 
-Jacob Markström - @j_markstrom
+Jacob Markström,@j_markstrom
 
-Mitch Marner - @Marner93
+Mitch Marner,@Marner93
 
-Pat Maroon - @patmaroon
+Pat Maroon,@patmaroon
 
-Matt Martin - @mattymarts17
+Matt Martin,@mattymarts17
 
-Alec Martinez - @amartinez_27
+Alec Martinez,@amartinez_27
 
-Jordan Martinook - @Martyman17
+Jordan Martinook,@Martyman17
 
-Andreas Martinsen - @andreasmartin90
+Andreas Martinsen,@andreasmartin90
 
-Mike Matheson - @mmatheson19
+Mike Matheson,@mmatheson19
 
-Auston Matthews - @AM34
+Auston Matthews,@AM34
 
-Shawn Matthias - @ShawnMatthias
+Shawn Matthias,@ShawnMatthias
 
-Ben Maxwell - @benmaxwell49
+Ben Maxwell,@benmaxwell49
 
-Alan May - @MayHockeyCSN
+Alan May,@MayHockeyCSN
 
-Jamal Mayers - @jamalmayers
+Jamal Mayers,@jamalmayers
 
-Marek Mazanec - @mazanec222
+Marek Mazanec,@mazanec222
 
-Jamie McBain - @jbain4
+Jamie McBain,@jbain4
 
-Jake McCabe - @McCabe19
+Jake McCabe,@McCabe19
 
-Jared McCann - @jaredmccann19
+Jared McCann,@jaredmccann19
 
-Cody McCormick - @cmccormick08
+Cody McCormick,@cmccormick08
 
-Connor McDavid - @cmcdavid97
+Connor McDavid,@cmcdavid97
 
-Ryan McDonagh - @RMcDonagh27
+Ryan McDonagh,@RMcDonagh27
 
-Andy McDonald - @10_AMac
+Andy McDonald,@10_AMac
 
-Colin McDonald - @ColinMcDonald13
+Colin McDonald,@ColinMcDonald13
 
-Jamie McGinn - @JamieMcGinn88
+Jamie McGinn,@JamieMcGinn88
 
-Tye McGinn - @TyeMcGinn
+Tye McGinn,@TyeMcGinn
 
-Brian McGrattan - @bigern10
+Brian McGrattan,@bigern10
 
-Dylan McIlrath - @dylan_mcilrath
+Dylan McIlrath,@dylan_mcilrath
 
-Jay McKee - @JayMcKee74
+Jay McKee,@JayMcKee74
 
-Greg McKegg - @gmckegg14
+Greg McKegg,@gmckegg14
 
-Curtis McKenzie - @muckbro16
+Curtis McKenzie,@muckbro16
 
-Frazer McLaren - @Frazermclaren68
+Frazer McLaren,@Frazermclaren68
 
-Jamie McLennan - @jamiemclennan29
+Jamie McLennan,@jamiemclennan29
 
-Jackie McLeod - @
+Jackie McLeod,@
 
-Brandon McMillan - @BrandonMcMil
+Brandon McMillan,@BrandonMcMil
 
-Brayden McNabb - @nabber03
+Brayden McNabb,@nabber03
 
-Jayson Megna - @Jayson_Megna
+Jayson Megna,@Jayson_Megna
 
-Jaycob Megna - @JaycobMegna
+Jaycob Megna,@JaycobMegna
 
-Barry Melrose - @NHLBarryMelrose
+Barry Melrose,@NHLBarryMelrose
 
-Marc Methot - @MarcMethot3
+Marc Methot,@MarcMethot3
 
-Andy Miele - @Andy_Miele
+Andy Miele,@Andy_Miele
 
-Colin Miller - @Colin6Miller
+Colin Miller,@Colin6Miller
 
-Ryan Miller - @RyanMiller3039
+Ryan Miller,@RyanMiller3039
 
-Dale Mitchell - @dmitchell71
+Dale Mitchell,@dmitchell71
 
-John Mitchell - @mitchabov
+John Mitchell,@mitchabov
 
-Willie Mitchell - @Willie_Mitch33
+Willie Mitchell,@Willie_Mitch33
 
-Mike Modano - @9modano
+Mike Modano,@9modano
 
-Travis Moen - @32trapper
+Travis Moen,@32trapper
 
-Oscar Moller - @OM89
+Oscar Moller,@OM89
 
-Sean Monahan - @Monahan20
+Sean Monahan,@Monahan20
 
-Brandon Montour - @brandon_montour
+Brandon Montour,@brandon_montour
 
-Dominic Moore - @mooredom
+Dominic Moore,@mooredom
 
-Jeremy Morin - @jmorin91
+Jeremy Morin,@jmorin91
 
-Brendan Morrison - @7bmo
+Brendan Morrison,@7bmo
 
-Brenden Morrow - @Minimo1zero
+Brenden Morrow,@Minimo1zero
 
-Joseph Morrow - @JMorrow7
+Joseph Morrow,@JMorrow7
 
-Dave Moss - @djmoss25
+Dave Moss,@djmoss25
 
-Tyler Motte - @tmotte_14
+Tyler Motte,@tmotte_14
 
-Matt Moulson - @MMoulson
+Matt Moulson,@MMoulson
 
-Petr Mrázek - @pmrazek34
+Petr Mrázek,@pmrazek34
 
-Mirco Müller - @muellermirco
+Mirco Müller,@muellermirco
 
-Connor Murphy - @Cmurphy5
+Connor Murphy,@Cmurphy5
 
-Mike Murphy - @MichaelMurphy31
+Mike Murphy,@MichaelMurphy31
 
-Ryan Murphy - @ryanmurphy24
+Ryan Murphy,@ryanmurphy24
 
-Vladislav Namestnikov - @Vladdy18
+Vladislav Namestnikov,@Vladdy18
 
-Riley Nash - @rileynash20
+Riley Nash,@rileynash20
 
-Tyson Nash - @TysonNash
+Tyson Nash,@TysonNash
 
-James Neal - @jneal_18
+James Neal,@jneal_18
 
-Brock Nelson - @Bnelson
+Brock Nelson,@Bnelson
 
-Casey Nelson - @cNelly8
+Casey Nelson,@cNelly8
 
-Aaron Ness - @Aaron_Ness
+Aaron Ness,@Aaron_Ness
 
-Michal Neuvirth - @mneuvirth30
+Michal Neuvirth,@mneuvirth30
 
-Nino Niederreiter - @thelnino22
+Nino Niederreiter,@thelnino22
 
-Frans Nielsen - @NielsenFrans
+Frans Nielsen,@NielsenFrans
 
-Chris Nilan - @KnucklesNilan30
+Chris Nilan,@KnucklesNilan30
 
-Stefan Noesen - @stefannoesen
+Stefan Noesen,@stefannoesen
 
-Jordan Nolan - @Jordan_Nolan71
+Jordan Nolan,@Jordan_Nolan71
 
-Owen Nolan - @OwenNolan11
+Owen Nolan,@OwenNolan11
 
-Joakim Nordström - @Jo92No
+Joakim Nordström,@Jo92No
 
-Ryan Nugent-Hopkins - @RNH_93
+Ryan Nugent-Hopkins,@RNH_93
 
-Darnell Nurse - @drtwofive
+Darnell Nurse,@drtwofive
 
-William Nylander - @wmnylander
+William Nylander,@wmnylander
 
-Gustav Nyquist - @GNyquist
+Gustav Nyquist,@GNyquist
 
-Eric Nystrom - @enystrom23
+Eric Nystrom,@enystrom23
 
-Andrew O'Brien - @A_OBrien7
+Andrew O'Brien,@A_OBrien7
 
-Liam O'Brien - @OfficialBigTuna
+Liam O'Brien,@OfficialBigTuna
 
-Shane O'Brien - @ShaneOBrien55
+Shane O'Brien,@ShaneOBrien55
 
-Ryan O'Byrne - @ryanobyrne84
+Ryan O'Byrne,@ryanobyrne84
 
-Eric O'Dell - @3ricODell
+Eric O'Dell,@3ricODell
 
-Brian O'Neill - @Brian22ONeill
+Brian O'Neill,@Brian22ONeill
 
-Jeff O'Neill - @odognine2
+Jeff O'Neill,@odognine2
 
-Kyle Okposo - @bookerT2116
+Kyle Okposo,@bookerT2116
 
-Jamie Oleksiak - @jamieoleksiak
+Jamie Oleksiak,@jamieoleksiak
 
-Steven Oleksy - @StevenOleksy
+Steven Oleksy,@StevenOleksy
 
-Dylan Olsen - @DylanOlsen34
+Dylan Olsen,@DylanOlsen34
 
-Linus Omark - @Limpanomark
+Linus Omark,@Limpanomark
 
-Dmitry Orlov - @orlov_09
+Dmitry Orlov,@orlov_09
 
-Joni Ortio - @JoniOrtio
+Joni Ortio,@JoniOrtio
 
-Jed Ortmeyer - @4ortie1
+Jed Ortmeyer,@4ortie1
 
-Oskar Osala - @OskarOsala
+Oskar Osala,@OskarOsala
 
-T.J. Oshie - @TJOshie77
+T.J. Oshie,@TJOshie77
 
-Steve Ott - @otterN9NE
+Steve Ott,@otterN9NE
 
-Xavier Ouellet - @The_XMan16
+Xavier Ouellet,@The_XMan16
 
-Alex Ovechkin - @ovi8
+Alex Ovechkin,@ovi8
 
-Magnus Pääjärvi - @mps_91
+Magnus Pääjärvi,@mps_91
 
-Jean-Gabriel Pageau - @JGPageau
+Jean-Gabriel Pageau,@JGPageau
 
-Iiro Pakarinen - @IPakarinen
+Iiro Pakarinen,@IPakarinen
 
-Ondřej Palát - @Opalat18
+Ondřej Palát,@Opalat18
 
-Kyle Palmieri - @kylepalmieri
+Kyle Palmieri,@kylepalmieri
 
-Aaron Palushaj - @AaronPalushaj
+Aaron Palushaj,@AaronPalushaj
 
-Artemi Panarin - @72Artemi
+Artemi Panarin,@72Artemi
 
-Darren Pang - @Panger40
+Darren Pang,@Panger40
 
-Cédric Paquette - @Paquette18
+Cédric Paquette,@Paquette18
 
-Adam Pardy - @PardyAdam
+Adam Pardy,@PardyAdam
 
-Bernie Parent - @Bernieparent
+Bernie Parent,@Bernieparent
 
-P.A. Parenteau - @PAParenteau
+P.A. Parenteau,@PAParenteau
 
-George Parros - @GeorgeParros
+George Parros,@GeorgeParros
 
-David Pastrňák - @pastrnak96
+David Pastrňák,@pastrnak96
 
-Joe Pavelski - @jpav8
+Joe Pavelski,@jpav8
 
-Serge Payer - @sergepayer
+Serge Payer,@sergepayer
 
-Tanner Pearson - @tannerjpearson
+Tanner Pearson,@tannerjpearson
 
-Theo Peckham - @PECKS24
+Theo Peckham,@PECKS24
 
-Anthony Peluso - @AnthonyPeluso23
+Anthony Peluso,@AnthonyPeluso23
 
-Dustin Penner - @Dustinpenner25
+Dustin Penner,@Dustinpenner25
 
-Jim Peplinski - @jimpeplinski24
+Jim Peplinski,@jimpeplinski24
 
-Stuart Percy - @StuPercy5
+Stuart Percy,@StuPercy5
 
-David Perron - @DP_57
+David Perron,@DP_57
 
-Brett Pesce - @brettpesce22
+Brett Pesce,@brettpesce22
 
-Andrew Peters - @76_AndrewPeters
+Andrew Peters,@76_AndrewPeters
 
-Toby Petersen - @TeeP17
+Toby Petersen,@TeeP17
 
-Lennart Petrell - @lennu37
+Lennart Petrell,@lennu37
 
-Jeff Petry - @PetryJ
+Jeff Petry,@PetryJ
 
-Chris Phillips - @CPhillipsFour
+Chris Phillips,@CPhillipsFour
 
-Alexandre Picard - @alexpicard09
+Alexandre Picard,@alexpicard09
 
-Calvin Pickard - @cpickard1
+Calvin Pickard,@cpickard1
 
-Chet Pickard - @CPickard37
+Chet Pickard,@CPickard37
 
-Alex Pietrangelo - @apetro_27
+Alex Pietrangelo,@apetro_27
 
-Joe Piskula - @skoolz43
+Joe Piskula,@skoolz43
 
-Tyler Pitlick - @Pitty687
+Tyler Pitlick,@Pitty687
 
-Shjon Podein - @spodein
+Shjon Podein,@spodein
 
-Brayden Point - @BraydenPoint19
+Brayden Point,@BraydenPoint19
 
-Emile Poirier - @Epoirier27
+Emile Poirier,@Epoirier27
 
-Chris Porter - @32porterhouse
+Chris Porter,@32porterhouse
 
-Kevin Porter - @kporter12
+Kevin Porter,@kporter12
 
-Corey Potter - @Potsy44
+Corey Potter,@Potsy44
 
-Denis Potvin - @DenisPotvinFOX
+Denis Potvin,@DenisPotvinFOX
 
-Carey Price - @CP0031
+Carey Price,@CP0031
 
-Cayden Primeau - @cpreems29
+Cayden Primeau,@cpreems29
 
-Keith Primeau - @primes25
+Keith Primeau,@primes25
 
-Wayne Primeau - @Preems18
+Wayne Primeau,@Preems18
 
-Shane Prince - @ShanePrince18
+Shane Prince,@ShanePrince18
 
-Brian Propp - @guffaw26
+Brian Propp,@guffaw26
 
-Dalton Prout - @prouter5
+Dalton Prout,@prouter5
 
-Brandon Prust - @BrandonPrust8
+Brandon Prust,@BrandonPrust8
 
-Matt Puempel - @mpuempel
+Matt Puempel,@mpuempel
 
-Jesse Puljujärvi - @Jpuljujarvi
+Jesse Puljujärvi,@Jpuljujarvi
 
-Ryan Pulock - @rpulock
+Ryan Pulock,@rpulock
 
-Teddy Purcell - @teddypurcell16
+Teddy Purcell,@teddypurcell16
 
-Mark Pysyk - @mpysyk03
+Mark Pysyk,@mpysyk03
 
-Jonathan Quick - @JonathanQuick32
+Jonathan Quick,@JonathanQuick32
 
-Antti Raanta - @ARaanta31
+Antti Raanta,@ARaanta31
 
-Michael Raffl - @michaelRaffl
+Michael Raffl,@michaelRaffl
 
-Rickard Rakell - @RickyRakell93
+Rickard Rakell,@RickyRakell93
 
-Greg Rallo - @GregRallo27
+Greg Rallo,@GregRallo27
 
-Karri Rämö - @RamoKarri
+Karri Rämö,@RamoKarri
 
-Tuukka Rask - @tuukkarask
+Tuukka Rask,@tuukkarask
 
-Victor Rask - @VictorRask
+Victor Rask,@VictorRask
 
-Dennis Rasmussen - @RasmussenDen
+Dennis Rasmussen,@RasmussenDen
 
-Ty Rattie - @TyRattie8
+Ty Rattie,@TyRattie8
 
-Matt Read - @MReader24
+Matt Read,@MReader24
 
-Daryl Reaugh - @Razor5Hole
+Daryl Reaugh,@Razor5Hole
 
-Ryan Reaves - @Reavo7Five
+Ryan Reaves,@Reavo7Five
 
-Mark Recchi - @Markrecchi8
+Mark Recchi,@Markrecchi8
 
-Griffin Reinhart - @GriffinReinhart
+Griffin Reinhart,@GriffinReinhart
 
-Jon Rheault - @jwrheault
+Jon Rheault,@jwrheault
 
-Brad Richards - @BRichards_1991
+Brad Richards,@BRichards_1991
 
-Mike Richards - @MRichie_10
+Mike Richards,@MRichie_10
 
-Tobias Rieder - @TobiRieder9
+Tobias Rieder,@TobiRieder9
 
-Morgan Rielly - @mriles4
+Morgan Rielly,@mriles4
 
-Zac Rinaldo - @RinaldoZac
+Zac Rinaldo,@RinaldoZac
 
-Rasmus Ristolainen - @rasmrist55
+Rasmus Ristolainen,@rasmrist55
 
-Brett Ritchie - @britch20
+Brett Ritchie,@britch20
 
-Mattias Ritola - @ritto21
+Mattias Ritola,@ritto21
 
-Jamie Rivers - @JamieRivers08
+Jamie Rivers,@JamieRivers08
 
-Gary Roberts - @GaryRobertsHPT
+Gary Roberts,@GaryRobertsHPT
 
-Jeremy Roenick - @Jeremy_Roenick
+Jeremy Roenick,@Jeremy_Roenick
 
-Cliff Ronning - @CliffRonning7
+Cliff Ronning,@CliffRonning7
 
-Antoine Roussel - @Rous_ant
+Antoine Roussel,@Rous_ant
 
-Derek Roy - @Roy9ner
+Derek Roy,@Roy9ner
 
-Eric Roy - @Royzy07
+Eric Roy,@Royzy07
 
-Chad Ruhwedel - @chad5ruhwedel
+Chad Ruhwedel,@chad5ruhwedel
 
-David Rundblad - @DavidRundblad
+David Rundblad,@DavidRundblad
 
-Mike Rupp - @Rupper17
+Mike Rupp,@Rupper17
 
-Bryan Rust - @rustyyy_92
+Bryan Rust,@rustyyy_92
 
-Kerby Rychel - @Krychs
+Kerby Rychel,@Krychs
 
-Brandon Saad - @BSaad20
+Brandon Saad,@BSaad20
 
-Bryce Salvador - @BryceSalvador
+Bryce Salvador,@BryceSalvador
 
-Zach Sanford - @zachsanford21
+Zach Sanford,@zachsanford21
 
-Bobby Sanguinetti - @Sangs2224
+Bobby Sanguinetti,@Sangs2224
 
-David Savard - @dsavy58
+David Savard,@dsavy58
 
-Denis Savard - @denissavard18
+Denis Savard,@denissavard18
 
-Marc Savard - @MSavvy91
+Marc Savard,@MSavvy91
 
-Marco Scandella - @MarcoScandella
+Marco Scandella,@MarcoScandella
 
-Dave Scatchard - @DaveScatchard
+Dave Scatchard,@DaveScatchard
 
-Colton Sceviour - @Sceviour7
+Colton Sceviour,@Sceviour7
 
-Tim Schaller - @TimScha11er
+Tim Schaller,@TimScha11er
 
-Mark Scheifele - @markscheifele55
+Mark Scheifele,@markscheifele55
 
-Brayden Schenn - @Bschenn_10
+Brayden Schenn,@Bschenn_10
 
-Nick Schmaltz - @thisisnick_09
+Nick Schmaltz,@thisisnick_09
 
-Nate Schmidt - @nateschmidt29
+Nate Schmidt,@nateschmidt29
 
-Rob Schremp - @RobSchremp
+Rob Schremp,@RobSchremp
 
-Jordan Schroeder - @J_Schroeder90
+Jordan Schroeder,@J_Schroeder90
 
-Justin Schultz - @6Schultz6
+Justin Schultz,@6Schultz6
 
-Ben Scrivens - @ben_scrivens
+Ben Scrivens,@ben_scrivens
 
-Brandon Segal - @brandon_segal
+Brandon Segal,@brandon_segal
 
-Tyler Seguin - @tseguinofficial
+Tyler Seguin,@tseguinofficial
 
-Teemu Selänne - @TeemuSel8nne
+Teemu Selänne,@TeemuSel8nne
 
-Tom Sestito - @TomSestito23
+Tom Sestito,@TomSestito23
 
-Damon Severson - @dseves7
+Damon Severson,@dseves7
 
-Brendan Shanahan - @brendanshanahan
+Brendan Shanahan,@brendanshanahan
 
-Ryan Shannon - @ryanshannon22
+Ryan Shannon,@ryanshannon22
 
-Patrick Sharp - @10PSharp
+Patrick Sharp,@10PSharp
 
-Kevin Shattenkirk - @shattdeuces
+Kevin Shattenkirk,@shattdeuces
 
-Andrew Shaw - @shawz15er
+Andrew Shaw,@shawz15er
 
-Logan Shaw - @loganshaw11
+Logan Shaw,@loganshaw11
 
-Riley Sheahan - @rsheahan15
+Riley Sheahan,@rsheahan15
 
-Conor Sheary - @csheary13
+Conor Sheary,@csheary13
 
-Neil Sheehy - @ICEHockeyAgent
+Neil Sheehy,@ICEHockeyAgent
 
-Jody Shelley - @shelleyhawk45
+Jody Shelley,@shelleyhawk45
 
-Hunter Shinkaruk - @H_S_9
+Hunter Shinkaruk,@H_S_9
 
-Devin Shore - @devinshore
+Devin Shore,@devinshore
 
-Nick Shore - @nshore23
+Nick Shore,@nshore23
 
-Gary Shuchuk - @gshuchuk
+Gary Shuchuk,@gshuchuk
 
-Jakob Silfverberg - @jsilfverberg33
+Jakob Silfverberg,@jsilfverberg33
 
-Wayne Simmonds - @Simmonds17
+Wayne Simmonds,@Simmonds17
 
-Todd Simpson - @toddsimpson27
+Todd Simpson,@toddsimpson27
 
-Colton Sissons - @colton_es15
+Colton Sissons,@colton_es15
 
-Mackenzie Skapski - @Skaps29
+Mackenzie Skapski,@Skaps29
 
-Jack Skille - @JackSkille
+Jack Skille,@JackSkille
 
-Jeff Skinner - @JeffSkinner
+Jeff Skinner,@JeffSkinner
 
-Brady Skjei - @BradySkjei
+Brady Skjei,@BradySkjei
 
-Jim Slater - @slaterjim
+Jim Slater,@slaterjim
 
-Jaccob Slavin - @Jslavin74
+Jaccob Slavin,@Jslavin74
 
-Ben Smith - @BenASmith12
+Ben Smith,@BenASmith12
 
-Brendan Smith - @bssmith7
+Brendan Smith,@bssmith7
 
-Derek Smith - @dasmitty24
+Derek Smith,@dasmitty24
 
-Gemel Smith - @gemel_smith
+Gemel Smith,@gemel_smith
 
-Reilly Smith - @reillysmith18
+Reilly Smith,@reillysmith18
 
-Trevor Smith - @__tsmith
+Trevor Smith,@__tsmith
 
-Zack Smith - @Smit_Treat15
+Zack Smith,@Smit_Treat15
 
-Devante Smith-Pelly - @smithpelly23
+Devante Smith-Pelly,@smithpelly23
 
-Nick Sörensen - @NickSorensen94
+Nick Sörensen,@NickSorensen94
 
-Sheldon Souray - @SSouray
+Sheldon Souray,@SSouray
 
-Nick Spaling - @Spals88
+Nick Spaling,@Spals88
 
-Blake Speers - @Bspeers18
+Blake Speers,@Bspeers18
 
-Ryan Spooner - @RSpooner2376
+Ryan Spooner,@RSpooner2376
 
-Daniel Sprong - @sprong97
+Daniel Sprong,@sprong97
 
-Martin St. Louis - @mstlouis_26
+Martin St. Louis,@mstlouis_26
 
-Martin St. Pierre - @MStPierre39
+Martin St. Pierre,@MStPierre39
 
-Matt Stajan - @MattStajan18
+Matt Stajan,@MattStajan18
 
-Viktor Stålberg - @VStalberg
+Viktor Stålberg,@VStalberg
 
-Alex Stalock - @Stalock32
+Alex Stalock,@Stalock32
 
-Steven Stamkos - @RealStamkos91
+Steven Stamkos,@RealStamkos91
 
-Ryan Stanton - @rstanton4
+Ryan Stanton,@rstanton4
 
-Tim Stapleton - @Bluce_Reee
+Tim Stapleton,@Bluce_Reee
 
-Paul Stastny - @PaulyWalnuts26
+Paul Stastny,@PaulyWalnuts26
 
-Troy Stecher - @troystecher
+Troy Stecher,@troystecher
 
-Alexander Steen - @Steener20
+Alexander Steen,@Steener20
 
-Derek Stepan - @DerekStepan21
+Derek Stepan,@DerekStepan21
 
-Chandler Stephenson - @CStephenson22
+Chandler Stephenson,@CStephenson22
 
-Anthony Stewart - @StuMunrue
+Anthony Stewart,@StuMunrue
 
-Chris Stewart - @Cstew_7
+Chris Stewart,@Cstew_7
 
-P.J. Stock - @PJStock28
+P.J. Stock,@PJStock28
 
-Anthony Stolarz - @StolieTheGoalie
+Anthony Stolarz,@StolieTheGoalie
 
-Jarret Stoll - @jarretstoll
+Jarret Stoll,@jarretstoll
 
-Mark Stone - @MStoner61
+Mark Stone,@MStoner61
 
-Michael Stone - @StoneM26
+Michael Stone,@StoneM26
 
-Tyson Strachan - @tstracks
+Tyson Strachan,@tstracks
 
-Dylan Strome - @stromer19
+Dylan Strome,@stromer19
 
-Ryan Strome - @strome18
+Ryan Strome,@strome18
 
-P.K. Subban - @PKSubban1
+P.K. Subban,@PKSubban1
 
-Steve Sullivan - @Sullivan26
+Steve Sullivan,@Sullivan26
 
-Chris Summers - @chri5ummers
+Chris Summers,@chri5ummers
 
-Oskar Sundqvist - @sundqvist32
+Oskar Sundqvist,@sundqvist32
 
-Andrej Šustr - @AndrejSustr
+Andrej Šustr,@AndrejSustr
 
-Brian Sutherby - @BrianSutherby
+Brian Sutherby,@BrianSutherby
 
-Brett Sutter - @sutter_brett
+Brett Sutter,@sutter_brett
 
-Brody Sutter - @Sutts19
+Brody Sutter,@Sutts19
 
-Viktor Svedberg - @svedberg8
+Viktor Svedberg,@svedberg8
 
-Danny Syvret - @DannySyvret
+Danny Syvret,@DannySyvret
 
-Jordan Szwarz - @JSzwarz
+Jordan Szwarz,@JSzwarz
 
-Cam Talbot - @ctalbot33
+Cam Talbot,@ctalbot33
 
-Maxime Talbot - @Max25talbot
+Maxime Talbot,@Max25talbot
 
-Eric Tangradi - @ETangradi
+Eric Tangradi,@ETangradi
 
-Vladimir Tarasenko - @tara9191
+Vladimir Tarasenko,@tara9191
 
-Nick Tarnasky - @ntarnasky74
+Nick Tarnasky,@ntarnasky74
 
-Tomáš Tatar - @Trto90
+Tomáš Tatar,@Trto90
 
-John Tavares - @91Tavares
+John Tavares,@91Tavares
 
-Matt Tennyson - @Tenner_7
+Matt Tennyson,@Tenner_7
 
-Chris Terry - @christerry25
+Chris Terry,@christerry25
 
-Colten Teubert - @tubes33
+Colten Teubert,@tubes33
 
-Chris Therien - @ctherien6
+Chris Therien,@ctherien6
 
-Christian Thomas - @cpt27
+Christian Thomas,@cpt27
 
-Nate Thompson - @NateThompson44
+Nate Thompson,@NateThompson44
 
-Shawn Thornton - @ThorntonFDN
+Shawn Thornton,@ThorntonFDN
 
-Dalton Thrower - @thrower47
+Dalton Thrower,@thrower47
 
-Chris Tierney - @tierney71
+Chris Tierney,@tierney71
 
-Kimmo Timonen - @kime4kids
+Kimmo Timonen,@kime4kids
 
-Matthew Tkachuk - @TKACHUKycheese_
+Matthew Tkachuk,@TKACHUKycheese_
 
-Jiří Tlustý - @J_T_19
+Jiří Tlustý,@J_T_19
 
-Rick Tocchet - @
+Rick Tocchet,@
 
-Jonathan Toews - @JonathanToews
+Jonathan Toews,@JonathanToews
 
-Tyler Toffoli - @tytoff16
+Tyler Toffoli,@tytoff16
 
-Dustin Tokarski - @dustintokarski
+Dustin Tokarski,@dustintokarski
 
-Jordin Tootoo - @Jtootoo22
+Jordin Tootoo,@Jtootoo22
 
-Vincent Trocheck - @trocheck_89
+Vincent Trocheck,@trocheck_89
 
-Jacob Trouba - @JacobTrouba
+Jacob Trouba,@JacobTrouba
 
-Darcy Tucker - @16DarcyTucker
+Darcy Tucker,@16DarcyTucker
 
-Marty Turco - @mturco35
+Marty Turco,@mturco35
 
-Travis Turnbull - @TravisTurnbull9
+Travis Turnbull,@TravisTurnbull9
 
-Kyle Turris - @kyleturris
+Kyle Turris,@kyleturris
 
-David Ullström - @d_ullstrom
+David Ullström,@d_ullstrom
 
-R.J. Umberger - @Umby18
+R.J. Umberger,@Umby18
 
-Scottie Upshall - @ScottieUpshall
+Scottie Upshall,@ScottieUpshall
 
-Brady Vail - @BradyVail
+Brady Vail,@BradyVail
 
-James van Riemsdyk - @JVReemer21
+James van Riemsdyk,@JVReemer21
 
-Trevor van Riemsdyk - @TvanRiemsdyk6
+Trevor van Riemsdyk,@TvanRiemsdyk6
 
-Jim Vandermeer - @Jim_Vandermeer
+Jim Vandermeer,@Jim_Vandermeer
 
-Thomas Vanek - @T_Vanek26
+Thomas Vanek,@T_Vanek26
 
-Phil Varone - @pvarone22
+Phil Varone,@pvarone22
 
-Frank Vatrano - @Frank_Vatrano
+Frank Vatrano,@Frank_Vatrano
 
-Jimmy Vesey - @19Vesey
+Jimmy Vesey,@19Vesey
 
-Jake Virtanen - @Jake_Virtanen
+Jake Virtanen,@Jake_Virtanen
 
-Marc-Édouard Vlasic - @Vlasic44
+Marc-Édouard Vlasic,@Vlasic44
 
-Jakub Voráček - @jachobe
+Jakub Voráček,@jachobe
 
-Jakub Vrána - @JVranaa
+Jakub Vrána,@JVranaa
 
-Chris Wagner - @chriswags23
+Chris Wagner,@chriswags23
 
-Joel Ward - @JRandalWard42
+Joel Ward,@JRandalWard42
 
-David Warsofsky - @DaveWarsofsky5
+David Warsofsky,@DaveWarsofsky5
 
-Mike Weaver - @mikeweaver_43
+Mike Weaver,@mikeweaver_43
 
-Steve Webb - @SteveWebb20
+Steve Webb,@SteveWebb20
 
-Mike Weber - @Mike6Weber
+Mike Weber,@Mike6Weber
 
-Yannick Weber - @yanweber68
+Yannick Weber,@yanweber68
 
-Scott Wedgewood - @wedgewall
+Scott Wedgewood,@wedgewall
 
-Kevin Weekes - @KevinWeekes
+Kevin Weekes,@KevinWeekes
 
-Dale Weise - @daleweise22
+Dale Weise,@daleweise22
 
-Casey Wellman - @caseywellman
+Casey Wellman,@caseywellman
 
-Alexander Wennberg - @Wenniss
+Alexander Wennberg,@Wenniss
 
-Zach Werenski - @ZachWerenski
+Zach Werenski,@ZachWerenski
 
-Kevin Westgarth - @KWesty19
+Kevin Westgarth,@KWesty19
 
-Blake Wheeler - @
+Blake Wheeler,@
 
-Ryan Whitney - @ryanwhitney6
+Ryan Whitney,@ryanwhitney6
 
-Chris Wideman - @Chris_Wideman
+Chris Wideman,@Chris_Wideman
 
-Patrick Wiercioch - @PattyW28
+Patrick Wiercioch,@PattyW28
 
-Jason Williams - @jason__willy
+Jason Williams,@jason__willy
 
-Justin Williams - @JustinWilliams
+Justin Williams,@JustinWilliams
 
-Ryan Wilson - @sauceee44
+Ryan Wilson,@sauceee44
 
-Scott Wilson - @smiltztwo3
+Scott Wilson,@smiltztwo3
 
-Tom Wilson - @tom_wilso
+Tom Wilson,@tom_wilso
 
-Brad Winchester - @bradwinchester
+Brad Winchester,@bradwinchester
 
-Jesse Winchester - @jwinch18
+Jesse Winchester,@jwinch18
 
-Tommy Wingels - @tommywingels57
+Tommy Wingels,@tommywingels57
 
-Daniel Winnik - @Danwinnik34
+Daniel Winnik,@Danwinnik34
 
-James Wisniewski - @jameswisniewski
+James Wisniewski,@jameswisniewski
 
-Brendan Witt - @BWitt32
+Brendan Witt,@BWitt32
 
-Wojtek Wolski - @WojtekWolski86
+Wojtek Wolski,@WojtekWolski86
 
-James Wright - @JamesWright06
+James Wright,@JamesWright06
 
-J.T. Wyman - @WyTJayman
+J.T. Wyman,@WyTJayman
 
-Bogdan Yakimov - @bosh1011
+Bogdan Yakimov,@bosh1011
 
-Nail Yakupov - @Nail10_1993
+Nail Yakupov,@Nail10_1993
 
-Brandon Yip - @BYipper18
+Brandon Yip,@BYipper18
 
-Jason York - @jasonyork33
+Jason York,@jasonyork33
 
-Pavel Zacha - @Pavel_Zacha
+Pavel Zacha,@Pavel_Zacha
 
-Nikita Zadorov - @zadorov61
+Nikita Zadorov,@zadorov61
 
-Nikita Zaitsev - @Zaitsev22
+Nikita Zaitsev,@Zaitsev22
 
-Mika Zibanejad - @MikaZibanejad
+Mika Zibanejad,@MikaZibanejad
 
-Mike Zigomanis - @mikezigomanis
+Mike Zigomanis,@mikezigomanis
 
-Harry Zolnierczyk - @HarryZ87
+Harry Zolnierczyk,@HarryZ87
 
-Mats Zuccarello - @zuccarello36
+Mats Zuccarello,@zuccarello36
 
-Jason Zucker - @Jason_Zucker16
+Jason Zucker,@Jason_Zucker16
